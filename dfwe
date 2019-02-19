@@ -1,0 +1,115 @@
+[33mcommit e361c44de1cb7607dad0962dd8f90db1cd1fef47[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Tue Feb 19 10:12:42 2019 +0200
+
+    19.02.2019 10.12
+
+[33mcommit d56f9666cc71a6d8aff07b83aeefbfc0a87069dc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/branch1[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 15:33:45 2019 +0200
+
+    dsf
+
+[33mcommit 44f1e18965dfb7820a1e493c74dcc79161b46267[m[33m ([m[1;31morigin/test1[m[33m)[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 15:24:53 2019 +0200
+
+    add d.html
+
+[33mcommit 962a4feca8a5766b94a819b9325ad887ecec3df1[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 15:20:38 2019 +0200
+
+    Added README
+
+[33mcommit 1a414c7adbdd59d61e19a8156b32a80c0da5af97[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 15:18:52 2019 +0200
+
+    Hello uses style.css
+
+[33mcommit 61338802ed7eb49a748da77196160472a4c19130[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 15:17:39 2019 +0200
+
+    Added css stylesheet
+
+[33mcommit c67d0061644a1029904be5d889ba15c851a91141[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 14:54:23 2019 +0200
+
+    fist commit2
+
+[33mcommit 779bdbca1b58e346c9644e4b36f69a9bfc113e2e[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 14:53:50 2019 +0200
+
+    Added index.html
+
+[33mcommit 1ee2c0c425e777722e92a8358b45468d450d7b5e[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 14:53:01 2019 +0200
+
+    fist commit
+
+[33mcommit e81fd65ed609d81a005b372230b351f0f52e8527[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 14:51:50 2019 +0200
+
+    Moved hello.html to lib
+
+[33mcommit ef100a4428241eed2fde6172277b1a6195b614f6[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 14:19:18 2019 +0200
+
+    Add an author/email comment
+
+[33mcommit d00b9653d3420b810342b3367477d69a1030f02e[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 14:16:45 2019 +0200
+
+    Revert "Oops we didnt"
+    
+    This reverts commit 494186c9e25edafdcee095d17510486de5e00d1b.
+
+[33mcommit 494186c9e25edafdcee095d17510486de5e00d1b[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 14:16:16 2019 +0200
+
+    Oops we didnt
+
+[33mcommit 11f9766af7b7b88a5bde97330fa2b2630e3fc17d[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 13:04:07 2019 +0200
+
+    Added HTML header
+
+[33mcommit 902bfa196ee5f8a15618e1a75dfee1c6214c35c2[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 13:03:28 2019 +0200
+
+    Added standard HTML
+
+[33mcommit 75600ec6f9152d0b61340d1e30717f15e4d423c5[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 13:00:31 2019 +0200
+
+    Unrelated change to c
+
+[33mcommit bd0f3b4be15e42c6ebddbb100d90dc308208a5e7[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 12:59:51 2019 +0200
+
+    Changes for a and b
+
+[33mcommit 307712d9303f89bfd585a1518b0f4ba76bd1e4c4[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 12:58:50 2019 +0200
+
+    Second commit
+
+[33mcommit a8b1ab2ba83d53de2b7549de2857a5df390ac256[m
+Author: Dpodilchyk <dmtr@ukr.net>
+Date:   Mon Feb 18 12:56:39 2019 +0200
+
+    First Commit
